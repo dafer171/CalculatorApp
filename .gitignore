@@ -1,0 +1,9 @@
+*.o
+*.obj
+*.exe
+*.user
+*.pro.user
+*.log
+*.tmp
+build-*/
+Makefile
