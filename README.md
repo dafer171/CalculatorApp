@@ -24,3 +24,9 @@ Build System: **qmake**
 - [File I/O in C++](https://cplusplus.com/doc/tutorial/files/)
 - [Tutorial](https://www.youtube.com/watch?v=jkS4Vx85I-A)
 - [Tutorial](https://www.google.com/search?q=c%2B%2B+Basic+Calculator+with+GUI%3A&oq=c%2B%2B+Basic+Calculator+with+GUI%3A&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAjIHCAUQIRiPAtIBCDkxMDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:19509b10,vid:HgIYY-1yJp8,st:0)
+
+# Future Work
+
+- Delete the history from the app
+- Add more functions to the app
+- Work with graphical interfaces
